@@ -19,14 +19,7 @@ To architect solutions that are **intelligent, compassionate, and impactful**, b
 
 ## 🔭 Current Explorations
 
-### 🌿 Cloud-Hosted Plant Health Monitoring
-Using AWS, Terraform, and Docker to monitor plant ecosystems for the Liverpool Natural History Museum.
 
-### ✈️ Wildlife Strike Analytics
-Turning aviation data into insights that protect flights and create business opportunities in wildlife-resistant technologies.
-
-### 📚 English Learning Through Stories & Media
-A platform inspired by my own journey—learning English through Disney Channel with Arabic subtitles—combining storytelling, audio, and immersion.
 
 ---
 
@@ -42,6 +35,4 @@ data:
   - Python
   - SQL
   - Pandas
-frameworks:
-  - Streamlit
-  - Cloud-native architectures
+```
