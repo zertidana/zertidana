@@ -1,71 +1,47 @@
-welcome_message: "✨ Welcome to My GitHub Garden 🌿"
-theme: whimsical
-background:
-  origin: "Tripoli, Libya"
-  current_location: "London, UK"
-  identity_statement: >
-    A curious explorer of data, digital innovation, and cloud ecosystems,
-    on a mission to harmonize technology with nature, learning, and human potential.
+# ✨ Welcome to My GitHub Garden 🌿
 
-mission: >
-  To transform raw data into meaningful stories, build cloud-native solutions
-  that nurture both the planet and people, and create technology that empowers
-  learning, wellness, and holistic wealth.
+Born under the Mediterranean sun in **Tripoli, Libya**, now building in the digital clouds of **London, UK**.  
+I explore the magical intersection of **data, cloud infrastructure, and human-centered technology** — always asking:  
+_What if tech didn’t just solve problems, but told stories, healed ecosystems, and empowered minds?_
 
-projects_current:
-  - name: Plant Health Monitoring System
-    description: >
-      A cloud-hosted system using AWS, Terraform, and Docker to analyze plant
-      health data for the Liverpool Natural History Museum.
-    technologies: [AWS, Terraform, Docker, RDS, Lambda, S3, Streamlit]
+---
 
-  - name: Wildlife Strike Analytics
-    description: >
-      Exploring aviation data to uncover patterns in wildlife strikes and
-      identify opportunities for aircraft safety innovation.
-    technologies: [Python, SQL, Pandas, Redshift]
+## 🌱 Mission
+To architect solutions that are **intelligent, compassionate, and impactful**, blending:
+- Data science
+- Cloud engineering
+- Natural systems
+- Learning innovation
 
-  - name: English Learning App
-    inspiration: >
-      Inspired by how I learned English through Disney Channel and Arabic subtitles,
-      this app helps children learn naturally through storytelling and immersive media.
-    technologies: [Streamlit, Python, Cloud Deployment]
+> “Technology is the language we write to teach the universe how to dream.” ✨
 
-interests:
-  - Piano as mental debugging 🎹
-  - Sudoku as strategic meditation 🧩
-  - Learning as a lifestyle, not a checkbox 🌱
-  - Technology that tells human stories 🌍
+---
 
-tech_stack:
-  cloud:
-    - AWS: [SNS, RDS, Lambda, EventBridge, S3, Athena]
-    - Terraform
-    - Docker
-    - Redshift
-  languages:
-    - Python
-    - SQL
-  frameworks:
-    - Streamlit
-    - Pandas
+## 🔭 Current Explorations
 
-values:
-  holistic_wealth:
-    - financial
-    - mental
-    - time
-    - social
-    - physical
-  philosophy: >
-    Technology is my paintbrush and the cloud is my canvas—together,
-    we can architect the future with empathy, efficiency, and imagination.
+### 🌿 Cloud-Hosted Plant Health Monitoring
+Using AWS, Terraform, and Docker to monitor plant ecosystems for the Liverpool Natural History Museum.
 
-fun_facts:
-  - "I speak music, code, and culture interchangeably."
-  - "My Git commits may be digital, but my vision is rooted in nature."
-  - "Every project I build starts with a story."
+### ✈️ Wildlife Strike Analytics
+Turning aviation data into insights that protect flights and create business opportunities in wildlife-resistant technologies.
 
-closing_message: >
-  Thank you for visiting my GitHub Garden — may your ideas take root,
-  your code blossom, and your dreams be continuously deployed 🚀🌿
+### 📚 English Learning Through Stories & Media
+A platform inspired by my own journey—learning English through Disney Channel with Arabic subtitles—combining storytelling, audio, and immersion.
+
+---
+
+## 🛠 Tech Stack
+
+```yaml
+cloud:
+  - AWS (SNS, RDS, Lambda, EventBridge, S3, Athena)
+  - Terraform
+  - Docker
+  - Redshift
+data:
+  - Python
+  - SQL
+  - Pandas
+frameworks:
+  - Streamlit
+  - Cloud-native architectures
