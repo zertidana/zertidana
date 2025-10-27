@@ -1,7 +1,9 @@
-# ✨ Welcome to My GitHub Garden 🌿
+# 🌿 Welcome to My GitHub Garden 🌿
 
 Born under the Mediterranean sun in **Tripoli, Libya**, now building in the digital clouds of **London, UK**.  
 I explore the intersection of **data, cloud infrastructure, and human-centered technology**
+
+---
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -18,12 +20,6 @@ I explore the intersection of **data, cloud infrastructure, and human-centered t
   <img height="180" src="https://streak-stats.demolab.com?user=zertidana&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zertidana&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
-
 ---
 
 ## 🌱 Mission
@@ -32,12 +28,7 @@ To architect solutions that are **intelligent, compassionate, and impactful**, b
 - Cloud engineering
 - Natural systems
 - Learning innovation
----
-
-## 🔭 Current Explorations
-
-
-
+  
 ---
 
 ## 🛠 Tech Stack
