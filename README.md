@@ -1,8 +1,7 @@
 # ✨ Welcome to My GitHub Garden 🌿
 
 Born under the Mediterranean sun in **Tripoli, Libya**, now building in the digital clouds of **London, UK**.  
-I explore the magical intersection of **data, cloud infrastructure, and human-centered technology** — always asking:  
-_What if tech didn’t just solve problems, but told stories, healed ecosystems, and empowered minds?_
+I explore the intersection of **data, cloud infrastructure, and human-centered technology**
 
 ---
 
