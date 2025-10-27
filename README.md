@@ -8,7 +8,7 @@ I explore the intersection of **data, cloud infrastructure, and human-centered t
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/zertidana">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=zertidana&show_icons=true&hide=issues&rank_icon=github&theme=green_nymph&hide_border=true" alt="GitHub stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=zertidana&show_icons=true&hide=issues&rank_icon=github&theme=calm&hide_border=true" alt="GitHub stats" />
   </a>
   <a href="https://github.com/zertidana">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zertidana&layout=compact&langs_count=8&theme=leafy&hide_border=true" alt="Top languages" />
