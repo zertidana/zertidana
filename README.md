@@ -17,7 +17,7 @@ I explore the intersection of **data, cloud infrastructure, and human-centered t
 
 <!-- Streak -->
 <p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=zertidana&theme=green_nymph&hide_border=true" alt="GitHub streak" />
+  <img height="180" src="https://streak-stats.demolab.com?user=zertidana&theme=leafy&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
