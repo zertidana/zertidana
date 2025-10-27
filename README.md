@@ -11,9 +11,6 @@ To architect solutions that are **intelligent, compassionate, and impactful**, b
 - Cloud engineering
 - Natural systems
 - Learning innovation
-
-> “Technology is the language we write to teach the universe how to dream.” ✨
-
 ---
 
 ## 🔭 Current Explorations
