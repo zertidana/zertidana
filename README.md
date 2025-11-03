@@ -43,4 +43,7 @@ data:
   - Python
   - SQL
   - Pandas
+dashboarding:
+  - Tableau
+  - Streamlit
 ```
