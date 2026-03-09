@@ -18,7 +18,6 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │  🌍 Born under the Mediterranean sun in Tripoli, Libya          │
 │  ☁️  Now building in the digital clouds of London, UK           │
-│  🔗 Exploring: Data × Cloud Infrastructure × Human Tech         │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -26,20 +25,17 @@
 
 ---
 
-<!-- STATS ROW -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zertidana&show_icons=true&hide=issues&rank_icon=github&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=7ee787" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zertidana&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=7ee787" />
 </div>
 
-<!-- STREAK -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zertidana&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=7EE787&sideLabels=7EE787&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4D8C57" />
 </div>
 
 ---
 
-<!-- ACTIVITY GRAPH -->
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zertidana&bg_color=0d1117&color=39d353&line=39d353&point=7ee787&area=true&area_color=1a4731&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -48,7 +44,6 @@
 
 ---
 
-<!-- TECH STACK - VISUAL BADGES -->
 <div align="center">
 
 ### ☁️ Cloud & Infrastructure
@@ -77,7 +72,6 @@
 
 ---
 
-<!-- SNAKE CONTRIBUTION GRAPH -->
 <div align="center">
 
 ### 🐍 My Contributions Snake
@@ -92,18 +86,14 @@
 
 ---
 
-<!-- PROFILE VIEWS + TROPHIES -->
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=zertidana&label=Profile+Views&color=39d353&style=for-the-badge)](https://github.com/zertidana)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=zertidana&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-<!-- FOOTER WAVE -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1a4731,100:0d1117&height=120&section=footer" />
