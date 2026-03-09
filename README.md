@@ -49,20 +49,6 @@
 
 <div align="center">
 
-### 🐍 My Contributions Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zertidana/zertidana/output/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zertidana/zertidana/output/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zertidana/zertidana/output/dist/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
 [![Profile Views](https://komarev.com/ghpvc/?username=zertidana&label=Profile+Views&color=39d353&style=for-the-badge)](https://github.com/zertidana)
 
 </div>
@@ -73,6 +59,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1a4731,100:0d1117&height=120&section=footer" />
 
-*"The best time to plant a tree was 20 years ago. The second best time is now."*
+*"Thank you for visiting!"*
 
 </div>
