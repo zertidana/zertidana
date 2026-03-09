@@ -59,6 +59,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,50:1a4731,100:0d1117&height=120&section=footer" />
 
-*"Thank you for visiting!"*
+*Thank you for visiting!*
 
 </div>
