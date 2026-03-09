@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Animated typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8C%BF+Welcome+to+My+GitHub+Garden;Building+in+the+Digital+Clouds+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%8C%BF+Welcome+to+My+GitHub+Garden;+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <!-- Animated banner using capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4731,100:39d353&height=200&section=header&text=Zertidana&fontSize=80&fontColor=39D353&fontAlignY=38&desc=Data%20%7C%20Cloud%20%7C%20Human-Centered%20Tech&descAlignY=58&descColor=7ee787&animation=fadeIn" />
