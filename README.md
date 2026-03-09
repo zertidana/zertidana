@@ -19,15 +19,6 @@ I explore the intersection of **data, cloud infrastructure, and human-centered t
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=zertidana&theme=chartreuse-dark&hide_border=true" alt="GitHub streak" />
 </p>
-
----
-
-## 🌱 Mission
-To architect solutions that are **intelligent, compassionate, and impactful**, blending:
-- Data science
-- Cloud engineering
-- Natural systems
-- Learning innovation
   
 ---
 
@@ -36,13 +27,16 @@ To architect solutions that are **intelligent, compassionate, and impactful**, b
 ```yaml
 cloud:
   - AWS (SNS, RDS, Lambda, EventBridge, S3, Athena)
+  - Azure
+  - GCP
   - Terraform
   - Docker
   - Redshift
-data:
+Languages:
   - Python
+  - C#
+  - JavaScript
   - SQL
-  - Pandas
 dashboarding:
   - Tableau
   - Streamlit
