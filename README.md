@@ -11,31 +11,6 @@
 
 ---
 
-<!-- ABOUT ME - BENTO GRID STYLE -->
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  🌍 Born under the Mediterranean sun in Tripoli, Libya          │
-│  ☁️  Now building in the digital clouds of London, UK           │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zertidana&show_icons=true&hide=issues&rank_icon=github&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=7ee787" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zertidana&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=7ee787" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zertidana&theme=dark&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=7EE787&sideLabels=7EE787&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=4D8C57" />
-</div>
-
----
-
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zertidana&bg_color=0d1117&color=39d353&line=39d353&point=7ee787&area=true&area_color=1a4731&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
